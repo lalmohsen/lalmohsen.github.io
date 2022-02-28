@@ -300,7 +300,8 @@ section .section-heading{
 .about-us .abt-focus .st-line{
 	width: 120px;
 	display: inline-block;
-	color: #202939;
+	font-family: 'open_sansregular';
+	color: #50473c;
 }
 .about-us .service-list li i{
 	font-size: 30px;
